@@ -14,6 +14,7 @@ libopenzwave.so
 /cpp/build/windows/vs20*/Debug*/*
 /cpp/build/windows/vs20*/Release*/*
 /cpp/build/windows/vs20*/GIT-VS-VERSION-FILE
+/cpp/build/windows/vs20*/*user
 *.idb
 *.pdb
 *.log
